@@ -1,4 +1,4 @@
-# 🎨 Color Changer (Cambiador de Color Dinámico) 🌈
+# 🎨 Color Changer 🌈
 
 ## 📝 Descripción del Proyecto
 
