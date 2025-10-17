@@ -1,8 +1,2 @@
-COLOR CHANGER
-Lenguajes: HTML, CSS, JavaScript
-La página cambia de color cada vez que se presiona el div "Haz click", esto mediante event listener que genera un nuevo color que modifica el los elementos del DOM. 
-
-Conceptos usados:
--Flexbox
--Modificación del DOM
-
+🎨 Color Changer (Cambiador de Color Dinámico) 🌈📝 Descripción del ProyectoColorChanger es una sencilla aplicación web diseñada para modificar el color de fondo de la página y mostrar el código de color (HEX o RGB) generado. La aplicación utiliza JavaScript para generar un nuevo color aleatorio y manipular el DOM en tiempo real cada vez que el usuario hace clic en un botón.🚀 Tecnologías UtilizadasTecnologíaPropósitoHTMLEstructura de la página y el botón principal.CSSEstilizado base y diseño general.JavaScriptLógica central para la generación de colores y manipulación del DOM.BootstrapComponentes y utilidades para un diseño rápido y responsive.✨ Características y Skills DestacadasManipulación del DOM: Modifica directamente el estilo del cuerpo (<body>) para cambiar el color de fondo y actualiza el contenido de un elemento de texto para mostrar el nuevo código de color.Generación Aleatoria: Implementa lógica en JavaScript para generar valores de color (probablemente en formato HEX o RGB) de manera completamente aleatoria.Interactividad con Event Listeners: Utiliza un event listener para escuchar el evento click en el botón y ejecutar la función de cambio de color.Diseño Interactivo: Interfaz simple y visualmente atractiva utilizando componentes de Bootstrap.💻 Uso e InstalaciónNo se requiere instalación de librerías. Sigue estos pasos para ver el proyecto en acción:Clonar el Repositorio:Bashgit clone https://github.com/tu_usuario/ColorChanger.git
+Abrir el Archivo:Navega al directorio clonado y abre el archivo index.html en tu navegador.Interactuar:Haz clic repetidamente en el botón principal para ver cómo el fondo y el texto cambian dinámicamente.
